@@ -1,5 +1,6 @@
 require 'formula'
 
+
 class Bob < Formula
   homepage 'http://www.idiap.ch/software/bob/docs/releases/last/sphinx/html/index.html'
   url 'http://www.idiap.ch/software/bob/packages/bob-1.2.2.tar.gz'
